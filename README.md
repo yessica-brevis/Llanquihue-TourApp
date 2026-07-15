@@ -7,7 +7,7 @@
 - **Nombre completo:** Yessica Ximena Brevis Garnica
 - **Sección:** 008A
 - **Carrera:** Analista Programador Computacional
-- **Sede:** Online
+- **Sede:** Online.
 
 ---
 
